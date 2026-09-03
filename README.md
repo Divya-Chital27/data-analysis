@@ -101,7 +101,7 @@ A few real outputs pulled straight from the notebooks above — not stock charts
 
 **Smartphone prices are heavily right-skewed**
 <br>A handful of ultra-premium listings pull the average far above the median.
-<img src="assets/smartphone_price_dist.png" width="100%"/>
+<img src="images/smartphone_price_dist.png" width="100%"/>
 
 </td>
 <td width="50%">
