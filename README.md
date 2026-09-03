@@ -108,7 +108,7 @@ A few real outputs pulled straight from the notebooks above — not stock charts
 
 **Titanic: 1st class passengers survived at far higher rates**
 <br>Darker cells = fewer people; the survival row skews toward 1st class.
-<img src="assets/titanic_survival_heatmap.png" width="100%"/>
+<img src="images/titanic_survival_heatmap.png" width="100%"/>
 
 </td>
 </tr>
@@ -117,14 +117,14 @@ A few real outputs pulled straight from the notebooks above — not stock charts
 
 **Insurance dataset: BMI category split**
 <br>Explored alongside charges to see which category drives the highest claims.
-<img src="assets/insurance_bmi_pie.png" width="100%"/>
+<img src="images/insurance_bmi_pie.png" width="100%"/>
 
 </td>
 <td width="50%">
 
 **Titanic: survival by deck**
 <br>Built by extracting the deck letter out of the raw cabin field.
-<img src="assets/titanic_deck_survival.png" width="100%"/>
+<img src="images/titanic_deck_survival.png" width="100%"/>
 
 </td>
 </tr>
@@ -161,6 +161,8 @@ data-analysis/
 │   └── casestudy_on_flights.sql
 ├── datasets/
 │   └── (raw CSVs used across the above)
+├── images/
+│   └── (Charts and graphs)
 └── README.md
 ```
 
